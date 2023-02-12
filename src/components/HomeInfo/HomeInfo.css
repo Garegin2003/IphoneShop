@@ -1,0 +1,60 @@
+main {
+  width: 100%;
+  height: 736px;
+  background-size: 3008px 736px;
+  background-repeat: no-repeat;
+  background-image: url("https://www.apple.com/v/home/aw/images/heroes/apple-card-december/hero__dvsxv8smkkgi_largetall.jpg");
+  background-position: center;
+  color: #ffffff;
+}
+main .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+  margin: 0 auto;
+  gap: 10px;
+}
+main .container .main-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+main .container .main-info h2 {
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  margin: 10px 0;
+}
+main .container .main-info h3 {
+  font-size: 28px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  text-align: center;
+  margin: 10px 0;
+}
+main .container .main-info h6 {
+  font-size: 21px;
+  line-height: 1.19048;
+  font-weight: 400;
+  letter-spacing: 0.011em;
+}
+main .container .main-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+main .container .main-links a {
+  text-decoration: none;
+  color: #2997ff;
+  font-size: 20px;
+}
+main .container .main-links a:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=HomeInfo.css.map */

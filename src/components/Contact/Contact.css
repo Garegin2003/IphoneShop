@@ -1,0 +1,15 @@
+.contact {
+  background-image: url("../../images/10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.contact .container {
+  margin: 0 auto;
+  width: 720px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}/*# sourceMappingURL=Contact.css.map */

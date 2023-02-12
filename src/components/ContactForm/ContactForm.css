@@ -1,0 +1,23 @@
+.contact-form {
+  width: 287px;
+  margin: 56px auto 0;
+}
+.contact-form form {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.contact-form form label {
+  font-style: normal;
+  font-size: 1rem;
+}
+.contact-form form input {
+  border-color: #999999;
+  padding: 10px 12px;
+}
+.contact-form form textarea {
+  height: 299px;
+  width: 273px;
+}/*# sourceMappingURL=ContactForm.css.map */
